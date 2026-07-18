@@ -57,15 +57,7 @@ Durante a graduação, participei de pesquisa experimental envolvendo nanociênc
 
 ---
 
-## Estatísticas do GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -75,4 +67,4 @@ LinkedIn: https.//www.linkedin.com/in/lucasosousa231202/
 
 ---
 
-"Aprender é um processo contínuo. Sempre existe uma nova área para explorar."
+
