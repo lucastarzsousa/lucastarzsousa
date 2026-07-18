@@ -1,16 +1,78 @@
-## Hi there 👋
+# Olá, eu sou Lucas Oliveira
 
-<!--
-**lucastarzsousa/lucastarzsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou bacharel em Física pela Universidade Federal de Minas Gerais (UFMG) e atualmente estou direcionando minha trajetória para a área de tecnologia, programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Minha formação em Física me ensinou a lidar com problemas complexos, buscar respostas através de investigação e construir soluções baseadas em lógica, matemática e análise. Durante minha graduação, tive experiência com pesquisa experimental, análise de dados e programação aplicada à ciência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho uma grande curiosidade por diferentes áreas do conhecimento e gosto de aprender assuntos variados. Busco construir uma formação ampla, com a visão de um profissional generalista: alguém capaz de conectar conhecimentos de diferentes campos e enxergar problemas por diferentes perspectivas.
+
+Atualmente estou estudando desenvolvimento web, programação e ferramentas de tecnologia, sempre buscando transformar conhecimento em prática através de projetos e desafios reais.
+
+Além da tecnologia, tenho uma grande paixão pela educação. Acredito que aprender, ensinar e compartilhar conhecimento são formas de gerar impacto e transformar a realidade das pessoas. Por isso, mantenho uma rotina constante de estudos e busco evoluir continuamente em diferentes áreas.
+
+---
+
+## Tecnologias e ferramentas
+
+### Desenvolvimento
+
+* HTML
+* CSS
+* JavaScript
+* Firebase
+
+### Programação e Dados
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## Formação
+
+**Universidade Federal de Minas Gerais (UFMG)**
+Bacharelado em Física
+
+Durante a graduação, participei de pesquisa experimental envolvendo nanociência, microscopia e análise de dados científicos utilizando programação.
+
+---
+
+## Atualmente estudando
+
+* Desenvolvimento Full Stack
+* JavaScript
+* Estruturas de dados
+* Banco de dados
+* APIs
+* Boas práticas de programação
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## Contato
+
+LinkedIn: https.//www.linkedin.com/in/lucasosousa231202/
+
+---
+
+"Aprender é um processo contínuo. Sempre existe uma nova área para explorar."
