@@ -1,65 +1,99 @@
+<div align="center">
+
+# Lucas Oliveira
+
+### ⚛️ Physics | 💻 Software Development | 📚 Lifelong Learner
+
+</div>
+
 # Olá, eu sou Lucas Oliveira
 
-Sou bacharel em Física pela Universidade Federal de Minas Gerais (UFMG) e atualmente estou direcionando minha trajetória para a área de tecnologia, programação e desenvolvimento de software.
+Sou bacharel em Física pela Universidade Federal de Minas Gerais (UFMG) e atualmente estou construindo minha trajetória na área de tecnologia e desenvolvimento de software.
 
-Minha formação em Física me ensinou a lidar com problemas complexos, buscar respostas através de investigação e construir soluções baseadas em lógica, matemática e análise. Durante minha graduação, tive experiência com pesquisa experimental, análise de dados e programação aplicada à ciência.
+Minha formação em Física me proporcionou uma base forte em raciocínio lógico, matemática, investigação e resolução de problemas complexos. Durante minha graduação, tive experiência com pesquisa experimental, análise de dados e programação aplicada à ciência.
 
-Tenho uma grande curiosidade por diferentes áreas do conhecimento e gosto de aprender assuntos variados. Busco construir uma formação ampla, com a visão de um profissional generalista: alguém capaz de conectar conhecimentos de diferentes campos e enxergar problemas por diferentes perspectivas.
+Sou uma pessoa movida pela curiosidade e pelo aprendizado contínuo. Tenho interesse por diversas áreas do conhecimento e busco desenvolver uma visão ampla, conectando diferentes campos para entender problemas de formas diferentes. Acredito muito no conceito de um profissional generalista: alguém capaz de aprender rapidamente, transitar entre áreas e unir conhecimentos para criar soluções.
 
-Atualmente estou estudando desenvolvimento web, programação e ferramentas de tecnologia, sempre buscando transformar conhecimento em prática através de projetos e desafios reais.
+Atualmente estou aprofundando meus conhecimentos em programação, desenvolvimento web e análise de dados, criando projetos práticos e buscando evoluir constantemente como desenvolvedor.
 
-Além da tecnologia, tenho uma grande paixão pela educação. Acredito que aprender, ensinar e compartilhar conhecimento são formas de gerar impacto e transformar a realidade das pessoas. Por isso, mantenho uma rotina constante de estudos e busco evoluir continuamente em diferentes áreas.
+Além da tecnologia, tenho uma grande paixão pela educação. Acredito que o conhecimento é uma das ferramentas mais importantes para transformar pessoas e abrir novas possibilidades. Por isso, gosto tanto de aprender quanto de compartilhar aquilo que descubro pelo caminho.
 
----
+Estou sempre em busca de novos desafios, novos assuntos para explorar e novas formas de crescer pessoal e profissionalmente.
 
-## Tecnologias e ferramentas
 
-### Desenvolvimento
 
-* HTML
-* CSS
-* JavaScript
-* Firebase
 
-### Programação e Dados
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Jupyter Notebook
 
-### Ferramentas
+<div align="center">
 
-* Git
-* GitHub
-* VS Code
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,firebase" />
 
----
+</div>
+
+
 
 ## Formação
 
-**Universidade Federal de Minas Gerais (UFMG)**
+**Universidade Federal de Minas Gerais (UFMG)**  
 Bacharelado em Física
 
-Durante a graduação, participei de pesquisa experimental envolvendo nanociência, microscopia e análise de dados científicos utilizando programação.
+Durante minha graduação, tive contato com pesquisa científica experimental na área de nanociência, trabalhando com técnicas de microscopia e análise de dados.
+
+A experiência acadêmica desenvolveu minha capacidade de investigar problemas, interpretar informações complexas e utilizar ferramentas computacionais para análise e solução de desafios.
 
 ---
 
-## Atualmente estudando
+## Estudos atuais
 
-* Desenvolvimento Full Stack
-* JavaScript
-* Estruturas de dados
-* Banco de dados
-* APIs
-* Boas práticas de programação
+Atualmente estou aprofundando meus conhecimentos em programação e desenvolvimento de software, buscando construir uma base sólida tanto em desenvolvimento web quanto em análise de dados.
 
----
+Meus principais focos de estudo são:
+
+- JavaScript e desenvolvimento web
+- Estruturas de dados e lógica de programação
+- APIs e integração entre sistemas
+- Banco de dados
+- Boas práticas de desenvolvimento
+- Python aplicado à análise de dados
+
+Além da área técnica, continuo explorando diferentes campos do conhecimento, buscando desenvolver uma visão ampla e interdisciplinar como profissional.
 
 
 
----
+
+
+
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastarzsousa&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastarzsousa&layout=compact&theme=tokyonight"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,firebase" />
+
+
+
+
+<div align="center">
+
+*"The mind is not a vessel to be filled, but a fire to be kindled."*
+
+</div>
+
+
+
 
 ## Contato
 
