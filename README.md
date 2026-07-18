@@ -69,14 +69,6 @@ Além da área técnica, continuo explorando diferentes campos do conhecimento, 
 
 
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucastarzsousa&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucastarzsousa&layout=compact&theme=tokyonight"/>
-
-</div>
-
 
 
 
