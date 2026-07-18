@@ -1,3 +1,6 @@
+![Banner](./banner.png)
+
+
 <div align="center">
 
 # Lucas Oliveira
