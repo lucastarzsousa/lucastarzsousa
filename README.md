@@ -7,7 +7,7 @@
 
 # Lucas Oliveira
 
-### ⚛️ Physics | 💻 Software Development | 📚 Lifelong Learner
+###  Physics |  Software Development | Lifelong Learner
 
 </div>
 
