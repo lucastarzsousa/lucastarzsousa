@@ -33,7 +33,7 @@ Aplicação web full-stack desenvolvida para demonstrar a integração completa 
 * **Back-end:** API REST construída em Node.js e Express, com gerenciamento de rotas HTTP e deploy no Render.
 * **Banco de Dados:** Persistência de dados NoSQL com MongoDB Atlas integrado ao projeto através do Prisma ORM.
 
-[Acessar aplicação no ar](COLE_AQUI_O_LINK_DA_VERCEL) | [Repositório do Front-end](COLE_AQUI_O_LINK_DO_REPO_FRONT) | [Repositório da API](COLE_AQUI_O_LINK_DO_REPO_API)
+[Acessar aplicação no ar](https://cadastro-de-usuarios-two.vercel.app/) | [Repositório do Front-end](https://github.com/lucastarzsousa/Cadastro-de-Usuarios) | [Repositório da API](https://github.com/lucastarzsousa/API-cadastros)
 
 ---
 
