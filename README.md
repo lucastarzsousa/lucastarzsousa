@@ -2,59 +2,77 @@
 
 # Lucas Oliveira
 
-### Física | Desenvolvimento de Software Full-Stack | Aprendizado Contínuo
+### Física | Desenvolvimento Full-Stack | Curiosidade e Aprendizado Contínuo
 
 </div>
 
-# Olá, eu sou o Lucas
+# Sobre mim
 
-Prazer, sou o Lucas! Minha caminhada na tecnologia começou a partir de uma base um pouco diferente: me formei em Física pela UFMG. Durante a graduação, trabalhei com pesquisa científica experimental na área de nanociência e foi ali, lidando diariamente com análise de dados e ferramentas computacionais para entender problemas complexos, que percebi o quanto eu gostava de criar soluções através da programação.
+Sou formado em Física pela Universidade Federal de Minas Gerais (UFMG) e atualmente estou migrando para a área de desenvolvimento de software.
 
-Hoje, levo esse mesmo olhar curioso e investigativo diretamente para o desenvolvimento de software. Venho construindo aplicações full-stack do zero, cuidando de todo o ciclo do projeto — desde a criação da interface no front-end até a estruturação da API, integração com banco de dados e publicação na nuvem. Me movo pela vontade constante de aprender coisas novas e me considero um profissional generalista: alguém que aprende rápido, conecta pontas de conhecimentos diferentes e transforma ideias em código funcional.
+Minha trajetória sempre esteve ligada à busca por entender como as coisas funcionam. Durante a graduação, tive contato com pesquisa experimental em nanociência, análise de dados e programação aplicada a problemas científicos. Essa experiência despertou meu interesse pela tecnologia como uma ferramenta para criar, explorar ideias e desenvolver soluções.
+
+Gosto da multidisciplinaridade e acredito que conhecimentos de áreas diferentes podem se complementar. A Física me trouxe uma forma de pensar baseada em investigação, lógica e resolução de problemas, enquanto a programação abriu um novo caminho para transformar ideias em aplicações reais.
+
+Atualmente venho estudando e desenvolvendo projetos Full Stack, buscando evoluir constantemente através da prática e do aprendizado contínuo.
+
 
 ---
 
-## Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,html,css,git,github,vscode,prisma" />
 
 </div>
 
----
-
-## Projeto Full-Stack em Destaque
-
-### Sistema de Gerenciamento e Cadastro de Usuários
-Aplicação web full-stack desenvolvida para demonstrar a integração completa entre interface visual, API REST e banco de dados na nuvem.
-
-* **Front-end:** Interface desenvolvida em React com Vite, com consumo de dados via Axios e deploy realizado na Vercel.
-* **Back-end:** API REST construída em Node.js e Express, com gerenciamento de rotas HTTP e deploy no Render.
-* **Banco de Dados:** Persistência de dados NoSQL com MongoDB Atlas integrado ao projeto através do Prisma ORM.
-
-[Acessar aplicação no ar](https://cadastro-de-usuarios-two.vercel.app/) | [Repositório do Front-end](https://github.com/lucastarzsousa/Cadastro-de-Usuarios) | [Repositório da API](https://github.com/lucastarzsousa/API-cadastros)
 
 ---
 
-## Formação Acadêmica
+# 🚀 Projeto Full Stack em Destaque
+
+## Mini-RedeSocial
+
+Aplicação Full Stack desenvolvida do zero com o objetivo de criar uma base de uma rede social, envolvendo autenticação de usuários, gerenciamento de dados, comunicação entre frontend e backend e persistência em banco de dados.
+
+O projeto foi construído separando completamente a aplicação em frontend e backend, passando por todas as etapas de desenvolvimento: criação da interface, construção da API, integração com banco de dados e publicação em ambiente de produção.
+
+### Tecnologias utilizadas:
+
+**Front-end**
+- React
+- Vite
+- JavaScript
+- CSS
+
+**Back-end**
+- Node.js
+- Express
+- Prisma ORM
+- JWT
+- bcrypt
+
+**Banco de dados**
+- MongoDB Atlas
+
+**Deploy**
+- Vercel
+- Render
+
+🔗 [Aplicação online](LINK_FRONTEND)  
+🔗 [Repositório do projeto](LINK_REPOSITORIO)
+
+
+---
+
+# Formação
 
 **Universidade Federal de Minas Gerais (UFMG)**  
 Bacharelado em Física
 
-Durante a graduação, atuei na pesquisa experimental em nanociência, trabalhando com técnicas de microscopia e análise de dados. A vivência acadêmica foi fundamental para consolidar minha disciplina na investigação de falhas, interpretação de informações complexas e aplicação de lógica computacional para resolver desafios reais.
+Durante a graduação, participei de pesquisa experimental em nanociência, trabalhando com microscopia e análise de dados. Essa experiência contribuiu para minha base em pensamento analítico, investigação e resolução de problemas complexos.
 
----
-
-## Foco de Estudo Atual
-
-Atualmente me dedico ao aprofundamento em engenharia de software e arquitetura de aplicações web, concentrando meus estudos nos seguintes pontos:
-
-* Desenvolvimento de aplicações reativas com React
-* Construção de APIs REST com Node.js e Express
-* Modelagem de dados e integração de bancos NoSQL (MongoDB) e SQL
-* Deploy, versionamento e infraestrutura de aplicações na nuvem (Vercel e Render)
-* Python voltado para análise e manipulação de dados
 
 ---
 
@@ -64,8 +82,9 @@ Atualmente me dedico ao aprofundamento em engenharia de software e arquitetura d
 
 </div>
 
+
 ---
 
-## Contato
+# Contato
 
 LinkedIn: https://www.linkedin.com/in/lucasosousa231202/
