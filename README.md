@@ -30,9 +30,11 @@ Atualmente venho estudando e desenvolvendo projetos Full Stack, buscando evoluir
 
 ---
 
-# 🚀 Projeto Full Stack em Destaque
+#  Projeto Full Stack em Destaque
 
 ## Mini-RedeSocial
+🔗 [Aplicação online](https://mini-rede-social.vercel.app/) (pode demorar um pouco para iniciar devido ao render) 
+🔗 [Repositório do projeto](https://github.com/lucastarzsousa/Mini-RedeSocial)
 
 Aplicação Full Stack desenvolvida do zero com o objetivo de criar uma base de uma rede social, envolvendo autenticação de usuários, gerenciamento de dados, comunicação entre frontend e backend e persistência em banco de dados.
 
@@ -60,8 +62,7 @@ O projeto foi construído separando completamente a aplicação em frontend e ba
 - Vercel
 - Render
 
-🔗 [Aplicação online](LINK_FRONTEND)  
-🔗 [Repositório do projeto](LINK_REPOSITORIO)
+
 
 
 ---
@@ -85,6 +86,3 @@ Durante a graduação, participei de pesquisa experimental em nanociência, trab
 
 ---
 
-# Contato
-
-LinkedIn: https://www.linkedin.com/in/lucasosousa231202/
